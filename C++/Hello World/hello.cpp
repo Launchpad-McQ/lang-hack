@@ -22,7 +22,7 @@ void Hello::set_values ( int x, int y ) {
 int main() {
     Hello hel;
     hel.set_values(3,4);
-    cout << "area: " << hel.area() << endl;
+    cout << "area för en cirkeltrekant: " << hel.area() << endl;
 
     int c;
     int a = 5;
